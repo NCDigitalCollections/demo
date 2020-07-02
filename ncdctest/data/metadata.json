@@ -23,7 +23,7 @@
         "cdmid": "549079",
         "objectid": "coll000",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll000.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll000.html"
     },
     { 
         "title": "Pictorial review to acquaint the people of North Carolina more fully with their College for Women at Greensboro",
@@ -50,7 +50,7 @@
         "cdmid": "549116",
         "objectid": "coll001",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll001.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll001.html"
     },
     { 
         "title": "Women and the law : a handbook for North Carolina",
@@ -77,7 +77,7 @@
         "cdmid": "616805",
         "objectid": "coll002",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll002.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll002.html"
     },
     { 
         "title": "Women of distinction : remarkable in works and invincible in character",
@@ -104,7 +104,7 @@
         "cdmid": "20818",
         "objectid": "coll003",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll003.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll003.html"
     },
     { 
         "title": "Flora MacDonald : a history and a message",
@@ -131,7 +131,7 @@
         "cdmid": "40609",
         "objectid": "coll004",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll004.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll004.html"
     },
     { 
         "title": "Busy North Carolina women",
@@ -158,7 +158,7 @@
         "cdmid": "3372",
         "objectid": "coll005",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll005.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll005.html"
     },
     { 
         "title": "Admission of women to the University",
@@ -185,7 +185,7 @@
         "cdmid": "659811",
         "objectid": "coll006",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll006.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll006.html"
     },
     { 
         "title": "Our State",
@@ -212,7 +212,7 @@
         "cdmid": "88709",
         "objectid": "coll007",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll007.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll007.html"
     },
     { 
         "title": "State",
@@ -239,7 +239,7 @@
         "cdmid": "18303",
         "objectid": "coll008",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll008.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll008.html"
     },
     { 
         "title": "Our State",
@@ -266,7 +266,7 @@
         "cdmid": "77742",
         "objectid": "coll009",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll009.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll009.html"
     },
     { 
         "title": "Women of the century: a commemorative program of the Distinguished Women of North Carolina Awards Banquet",
@@ -293,7 +293,7 @@
         "cdmid": "307211",
         "objectid": "coll010",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll010.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll010.html"
     },
     { 
         "title": "Women's history month in North Carolina: a salute to women in history, March 1991-1992",
@@ -320,7 +320,7 @@
         "cdmid": "306784",
         "objectid": "coll011",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll011.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll011.html"
     },
     { 
         "title": "Equal suffrage : address",
@@ -347,7 +347,7 @@
         "cdmid": "18767",
         "objectid": "coll012",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll012.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll012.html"
     },
     { 
         "title": "Mary Mendenhall Hobbs : a lecture delivered at Guilford College, on Founders Day, 1955",
@@ -374,7 +374,7 @@
         "cdmid": "40568",
         "objectid": "coll013",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll013.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll013.html"
     },
     { 
         "title": "Tributes to Dr. Elizabeth Delia Dixon Carroll, the Meredith auditorium, November 4, 1934",
@@ -401,7 +401,7 @@
         "cdmid": "40502",
         "objectid": "coll014",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll014.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll014.html"
     },
     { 
         "title": "Everywoman's magazine [1916 : October, v.1 : n.1]",
@@ -428,7 +428,7 @@
         "cdmid": "39661",
         "objectid": "coll015",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll015.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll015.html"
     },
     { 
         "title": "Everywoman's magazine [1916 : December, v.1 : n.2]",
@@ -455,7 +455,7 @@
         "cdmid": "39541",
         "objectid": "coll016",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll016.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll016.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : January, v.1 : n.3]",
@@ -482,7 +482,7 @@
         "cdmid": "39600",
         "objectid": "coll017",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll017.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll017.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : February, v.1 : n.4]",
@@ -509,7 +509,7 @@
         "cdmid": "39720",
         "objectid": "coll018",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll018.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll018.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : March, v.1 : n.5]",
@@ -536,7 +536,7 @@
         "cdmid": "39427",
         "objectid": "coll019",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll019.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll019.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : April, v.1 : n.6]",
@@ -563,7 +563,7 @@
         "cdmid": "39474",
         "objectid": "coll020",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll020.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll020.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : May, v.1 : n.7]",
@@ -590,7 +590,7 @@
         "cdmid": "39751",
         "objectid": "coll021",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll021.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll021.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : June-July, v.1 : n.9]",
@@ -617,7 +617,7 @@
         "cdmid": "39368",
         "objectid": "coll022",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll022.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll022.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : August, v.1 : n.10]",
@@ -644,7 +644,7 @@
         "cdmid": "40043",
         "objectid": "coll023",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll023.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll023.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : September-October, v.1 : n.11]",
@@ -671,7 +671,7 @@
         "cdmid": "39893",
         "objectid": "coll024",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll024.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll024.html"
     },
     { 
         "title": "Everywoman's magazine [1917 : November, v.1 : n.12]",
@@ -698,7 +698,7 @@
         "cdmid": "39789",
         "objectid": "coll025",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll025.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll025.html"
     },
     { 
         "title": "North Carolina Federation of Woman's Clubs [1905-1906]",
@@ -725,7 +725,7 @@
         "cdmid": "12145",
         "objectid": "coll026",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll026.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll026.html"
     },
     { 
         "title": "North Carolina Federation of Women's Clubs [1909-1910]",
@@ -752,7 +752,7 @@
         "cdmid": "12142",
         "objectid": "coll027",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll027.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll027.html"
     },
     { 
         "title": "North Carolina Federation of Women's Clubs [1913-1914]",
@@ -779,7 +779,7 @@
         "cdmid": "12139",
         "objectid": "coll028",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll028.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll028.html"
     },
     { 
         "title": "North Carolina Federation of Women's Clubs [1916-1917]",
@@ -806,7 +806,7 @@
         "cdmid": "12137",
         "objectid": "coll029",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll029.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll029.html"
     },
     { 
         "title": "Pro-Woman Suffrage Circular: Twelve Reasons Why Women Should Vote",
@@ -833,7 +833,7 @@
         "cdmid": "556",
         "objectid": "coll030",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll030.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll030.html"
     },
     { 
         "title": "Photographs: NC. Equal Suffrage Association, headquarters",
@@ -860,7 +860,7 @@
         "cdmid": "553",
         "objectid": "coll031",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll031.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll031.html"
     },
     { 
         "title": "Back Our Girls Over There",
@@ -887,7 +887,7 @@
         "cdmid": "1888",
         "objectid": "coll032",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll032.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll032.html"
     },
     { 
         "title": "New Homemakers of America: Activities--Photographs",
@@ -914,7 +914,7 @@
         "cdmid": "1945",
         "objectid": "coll033",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll033.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll033.html"
     },
     { 
         "title": "Letter: Sarepta Revis to Daniel W. Revis, June 7, 1863",
@@ -941,7 +941,7 @@
         "cdmid": "1232",
         "objectid": "coll034",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll034.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll034.html"
     },
     { 
         "title": "Future Homemakers of America: History--Photographs--People, Executive Council, State Officers",
@@ -968,7 +968,7 @@
         "cdmid": "6619",
         "objectid": "coll035",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll035.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll035.html"
     },
     { 
         "title": "Future Homemakers of America: Publications--Newsletters and Bulletins, 1945, 1951, 1978",
@@ -995,7 +995,7 @@
         "cdmid": "7694",
         "objectid": "coll036",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll036.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll036.html"
     },
     { 
         "title": "New Homemakers of America: History--Executive Council and State Officers--Photographs",
@@ -1022,7 +1022,7 @@
         "cdmid": "3049",
         "objectid": "coll037",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll037.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll037.html"
     },
     { 
         "title": "The Girl On The Land Serves The Nation's Need",
@@ -1049,7 +1049,7 @@
         "cdmid": "1916",
         "objectid": "coll038",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll038.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll038.html"
     },
     { 
         "title": "Women canning produce in Asheville, N.C.",
@@ -1076,7 +1076,7 @@
         "cdmid": "3545",
         "objectid": "coll039",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll039.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll039.html"
     },
     { 
         "title": "Ann Preston Bridgers Papers",
@@ -1103,7 +1103,7 @@
         "cdmid": "8170",
         "objectid": "coll040",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll040.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll040.html"
     },
     { 
         "title": "Grosgrain Ribbon Sash: Vote for Women",
@@ -1130,7 +1130,7 @@
         "cdmid": "550",
         "objectid": "coll041",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll041.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll041.html"
     },
     { 
         "title": "Political Cartoons: Pro Women’s Suffrage",
@@ -1157,7 +1157,7 @@
         "cdmid": "566",
         "objectid": "coll042",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll042.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll042.html"
     },
     { 
         "title": "Hand Held Fan: \"I want to speak for myself at the polls\"",
@@ -1184,7 +1184,7 @@
         "cdmid": "581",
         "objectid": "coll043",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll043.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll043.html"
     },
     { 
         "title": "Photograph: Tiny Broadwick shows the backpack parachute",
@@ -1211,7 +1211,7 @@
         "cdmid": "979",
         "objectid": "coll044",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll044.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll044.html"
     },
     { 
         "title": "Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.",
@@ -1238,7 +1238,7 @@
         "cdmid": "771",
         "objectid": "coll045",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll045.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll045.html"
     },
     { 
         "title": "The Suffragists' Calendar, a year-book for every thinking woman",
@@ -1265,7 +1265,7 @@
         "cdmid": "620",
         "objectid": "coll046",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll046.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll046.html"
     },
     { 
         "title": "Bennis M. Blue Interview, 2017-11-16 [MilColl OH 1131]",
@@ -1292,7 +1292,7 @@
         "cdmid": "48",
         "objectid": "coll047",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll047.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll047.html"
     },
     { 
         "title": "Elaine de Kooning and Buckminster Fuller’s Venetian Blind Strip Dome, 1948 Summer Session in the Arts, Black Mountain College",
@@ -1319,7 +1319,7 @@
         "cdmid": "1149",
         "objectid": "coll048",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll048.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll048.html"
     },
     { 
         "title": "Ruth Asawa, Black Mountain College student, 1946-1949",
@@ -1346,7 +1346,7 @@
         "cdmid": "1179",
         "objectid": "coll049",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll049.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll049.html"
     },
     { 
         "title": "Anni Albers card weaving at Black Mountain College",
@@ -1373,7 +1373,7 @@
         "cdmid": "1232",
         "objectid": "coll050",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll050.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll050.html"
     },
     { 
         "title": "Great Lake - Bird Nest Colonies Birds, Mrs. Bayard Wootten the Photographer",
@@ -1400,7 +1400,7 @@
         "cdmid": "981",
         "objectid": "coll051",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll051.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll051.html"
     },
     { 
         "title": "Girl at information booth at Cherokee information center.",
@@ -1427,7 +1427,7 @@
         "cdmid": "1867",
         "objectid": "coll052",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll052.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll052.html"
     },
     { 
         "title": "Woman making pottery.",
@@ -1454,7 +1454,7 @@
         "cdmid": "2217",
         "objectid": "coll053",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll053.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll053.html"
     },
     { 
         "title": "Five Palmer Institute Teachers",
@@ -1481,7 +1481,7 @@
         "cdmid": "89",
         "objectid": "coll054",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll054.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll054.html"
     },
     { 
         "title": "Dr. Brown with Maria, Nat King, and Cookie Cole",
@@ -1508,7 +1508,7 @@
         "cdmid": "81",
         "objectid": "coll055",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll055.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll055.html"
     },
     { 
         "title": "Commission Report. Printed copies (2).",
@@ -1535,7 +1535,7 @@
         "cdmid": "6889",
         "objectid": "coll056",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll056.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll056.html"
     },
     { 
         "title": "Commission. Publicity. Photograph of assembled Commission, October 31, 1964.",
@@ -1562,7 +1562,7 @@
         "cdmid": "1839",
         "objectid": "coll057",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll057.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll057.html"
     },
     { 
         "title": "African American women picketers holding signs calling for justice.",
@@ -1589,7 +1589,7 @@
         "cdmid": "682",
         "objectid": "coll058",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll058.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll058.html"
     },
     { 
         "title": "Mary Speed Jones Mercer, Songs - United: A National Hymn",
@@ -1616,7 +1616,7 @@
         "cdmid": "16861",
         "objectid": "coll059",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll059.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll059.html"
     },
     { 
         "title": "Margaret I. Saunders Correspondence, March 1945",
@@ -1643,7 +1643,7 @@
         "cdmid": "945",
         "objectid": "coll060",
         
-        "reference_url": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll060.html"
+        "reference_url": "http://localhost:4000/ncdctest/items/coll060.html"
     }
     
 ] }

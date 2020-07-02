@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "https://ncdigitalcollections.github.io/demo/ncdctest/assets/img/p16062coll13_59_full.jpg",
+          "url": "http://localhost:4000/ncdctest/assets/img/p16062coll13_59_full.jpg",
           "caption": null,
           "credit": "She Changed the World"
         },
@@ -15,7 +15,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/549079",
           "caption": "North Carolina College for Women in pictures",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll000.html",
+          "link": "http://localhost:4000/ncdctest/items/coll000.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -29,7 +29,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/549116",
           "caption": "Pictorial review to acquaint the people of North Carolina more fully with their College for Women at Greensboro",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll001.html",
+          "link": "http://localhost:4000/ncdctest/items/coll001.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -43,7 +43,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/616805",
           "caption": "Women and the law : a handbook for North Carolina",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll002.html",
+          "link": "http://localhost:4000/ncdctest/items/coll002.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -57,7 +57,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/20818",
           "caption": "Women of distinction : remarkable in works and invincible in character",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll003.html",
+          "link": "http://localhost:4000/ncdctest/items/coll003.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -71,7 +71,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40609",
           "caption": "Flora MacDonald : a history and a message",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll004.html",
+          "link": "http://localhost:4000/ncdctest/items/coll004.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -85,7 +85,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/3372",
           "caption": "Busy North Carolina women",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll005.html",
+          "link": "http://localhost:4000/ncdctest/items/coll005.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -99,7 +99,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll9/id/659811",
           "caption": "Admission of women to the University",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll006.html",
+          "link": "http://localhost:4000/ncdctest/items/coll006.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -113,7 +113,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/88709/full/pct:40/0/default.jpg",
           "caption": "Our State",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll007.html",
+          "link": "http://localhost:4000/ncdctest/items/coll007.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -129,7 +129,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/18303/full/pct:40/0/default.jpg",
           "caption": "State",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll008.html",
+          "link": "http://localhost:4000/ncdctest/items/coll008.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -145,7 +145,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll18/77742/full/pct:40/0/default.jpg",
           "caption": "Our State",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll009.html",
+          "link": "http://localhost:4000/ncdctest/items/coll009.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -161,7 +161,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll22/id/307211",
           "caption": "Women of the century: a commemorative program of the Distinguished Women of North Carolina Awards Banquet",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll010.html",
+          "link": "http://localhost:4000/ncdctest/items/coll010.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -175,7 +175,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/18767",
           "caption": "Equal suffrage : address",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll012.html",
+          "link": "http://localhost:4000/ncdctest/items/coll012.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -189,7 +189,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40568",
           "caption": "Mary Mendenhall Hobbs : a lecture delivered at Guilford College, on Founders Day, 1955",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll013.html",
+          "link": "http://localhost:4000/ncdctest/items/coll013.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -203,7 +203,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40502",
           "caption": "Tributes to Dr. Elizabeth Delia Dixon Carroll, the Meredith auditorium, November 4, 1934",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll014.html",
+          "link": "http://localhost:4000/ncdctest/items/coll014.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -217,7 +217,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39661",
           "caption": "Everywoman's magazine [1916 : October, v.1 : n.1]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll015.html",
+          "link": "http://localhost:4000/ncdctest/items/coll015.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -233,7 +233,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39541",
           "caption": "Everywoman's magazine [1916 : December, v.1 : n.2]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll016.html",
+          "link": "http://localhost:4000/ncdctest/items/coll016.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -249,7 +249,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39600",
           "caption": "Everywoman's magazine [1917 : January, v.1 : n.3]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll017.html",
+          "link": "http://localhost:4000/ncdctest/items/coll017.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -265,7 +265,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39720",
           "caption": "Everywoman's magazine [1917 : February, v.1 : n.4]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll018.html",
+          "link": "http://localhost:4000/ncdctest/items/coll018.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -281,7 +281,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39427",
           "caption": "Everywoman's magazine [1917 : March, v.1 : n.5]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll019.html",
+          "link": "http://localhost:4000/ncdctest/items/coll019.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -297,7 +297,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39474",
           "caption": "Everywoman's magazine [1917 : April, v.1 : n.6]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll020.html",
+          "link": "http://localhost:4000/ncdctest/items/coll020.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -313,7 +313,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39751",
           "caption": "Everywoman's magazine [1917 : May, v.1 : n.7]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll021.html",
+          "link": "http://localhost:4000/ncdctest/items/coll021.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -329,7 +329,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39368",
           "caption": "Everywoman's magazine [1917 : June-July, v.1 : n.9]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll022.html",
+          "link": "http://localhost:4000/ncdctest/items/coll022.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -345,7 +345,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/40043",
           "caption": "Everywoman's magazine [1917 : August, v.1 : n.10]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll023.html",
+          "link": "http://localhost:4000/ncdctest/items/coll023.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -361,7 +361,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39893",
           "caption": "Everywoman's magazine [1917 : September-October, v.1 : n.11]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll024.html",
+          "link": "http://localhost:4000/ncdctest/items/coll024.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -377,7 +377,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/39789",
           "caption": "Everywoman's magazine [1917 : November, v.1 : n.12]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll025.html",
+          "link": "http://localhost:4000/ncdctest/items/coll025.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -393,7 +393,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12145",
           "caption": "North Carolina Federation of Woman's Clubs [1905-1906]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll026.html",
+          "link": "http://localhost:4000/ncdctest/items/coll026.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -407,7 +407,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12142",
           "caption": "North Carolina Federation of Women's Clubs [1909-1910]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll027.html",
+          "link": "http://localhost:4000/ncdctest/items/coll027.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -421,7 +421,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12139",
           "caption": "North Carolina Federation of Women's Clubs [1913-1914]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll028.html",
+          "link": "http://localhost:4000/ncdctest/items/coll028.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -435,7 +435,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p249901coll37/id/12137",
           "caption": "North Carolina Federation of Women's Clubs [1916-1917]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll029.html",
+          "link": "http://localhost:4000/ncdctest/items/coll029.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -449,7 +449,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll10/1888/full/pct:40/0/default.jpg",
           "caption": "Back Our Girls Over There",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll032.html",
+          "link": "http://localhost:4000/ncdctest/items/coll032.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -463,7 +463,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll8/1232/full/pct:40/0/default.jpg",
           "caption": "Letter: Sarepta Revis to Daniel W. Revis, June 7, 1863",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll034.html",
+          "link": "http://localhost:4000/ncdctest/items/coll034.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -479,7 +479,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll45/7694/full/pct:40/0/default.jpg",
           "caption": "Future Homemakers of America: Publications--Newsletters and Bulletins, 1945, 1951, 1978",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll036.html",
+          "link": "http://localhost:4000/ncdctest/items/coll036.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -493,7 +493,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll10/8170/full/pct:40/0/default.jpg",
           "caption": "Ann Preston Bridgers Papers",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll040.html",
+          "link": "http://localhost:4000/ncdctest/items/coll040.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -507,7 +507,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/566/full/pct:40/0/default.jpg",
           "caption": "Political Cartoons: Pro Women’s Suffrage",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll042.html",
+          "link": "http://localhost:4000/ncdctest/items/coll042.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -521,7 +521,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/771/full/pct:40/0/default.jpg",
           "caption": "Photograph: Tiny Broadwick lands in Griffith Park, Las Angeles Ca.",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll045.html",
+          "link": "http://localhost:4000/ncdctest/items/coll045.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -537,7 +537,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll19/620/full/pct:40/0/default.jpg",
           "caption": "The Suffragists' Calendar, a year-book for every thinking woman",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll046.html",
+          "link": "http://localhost:4000/ncdctest/items/coll046.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -551,7 +551,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/utils/getthumbnail/collection/p16062coll35/id/48",
           "caption": "Bennis M. Blue Interview, 2017-11-16 [MilColl OH 1131]",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll047.html",
+          "link": "http://localhost:4000/ncdctest/items/coll047.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -567,7 +567,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p249901coll44/1149/full/pct:40/0/default.jpg",
           "caption": "Elaine de Kooning and Buckminster Fuller’s Venetian Blind Strip Dome, 1948 Summer Session in the Arts, Black Mountain College",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll048.html",
+          "link": "http://localhost:4000/ncdctest/items/coll048.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -581,7 +581,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p249901coll44/1179/full/pct:40/0/default.jpg",
           "caption": "Ruth Asawa, Black Mountain College student, 1946-1949",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll049.html",
+          "link": "http://localhost:4000/ncdctest/items/coll049.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -595,7 +595,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll34/981/full/pct:40/0/default.jpg",
           "caption": "Great Lake - Bird Nest Colonies Birds, Mrs. Bayard Wootten the Photographer",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll051.html",
+          "link": "http://localhost:4000/ncdctest/items/coll051.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -609,7 +609,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll5/1867/full/pct:40/0/default.jpg",
           "caption": "Girl at information booth at Cherokee information center.",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll052.html",
+          "link": "http://localhost:4000/ncdctest/items/coll052.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -625,7 +625,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll5/2217/full/pct:40/0/default.jpg",
           "caption": "Woman making pottery.",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll053.html",
+          "link": "http://localhost:4000/ncdctest/items/coll053.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -641,7 +641,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll13/89/full/pct:40/0/default.jpg",
           "caption": "Five Palmer Institute Teachers",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll054.html",
+          "link": "http://localhost:4000/ncdctest/items/coll054.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -655,7 +655,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll13/81/full/pct:40/0/default.jpg",
           "caption": "Dr. Brown with Maria, Nat King, and Cookie Cole",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll055.html",
+          "link": "http://localhost:4000/ncdctest/items/coll055.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -671,7 +671,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll44/6889/full/pct:40/0/default.jpg",
           "caption": "Commission Report. Printed copies (2).",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll056.html",
+          "link": "http://localhost:4000/ncdctest/items/coll056.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -685,7 +685,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll44/1839/full/pct:40/0/default.jpg",
           "caption": "Commission. Publicity. Photograph of assembled Commission, October 31, 1964.",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll057.html",
+          "link": "http://localhost:4000/ncdctest/items/coll057.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -701,7 +701,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll17/682/full/pct:40/0/default.jpg",
           "caption": "African American women picketers holding signs calling for justice.",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll058.html",
+          "link": "http://localhost:4000/ncdctest/items/coll058.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -715,7 +715,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p15012coll8/16861/full/pct:40/0/default.jpg",
           "caption": "Mary Speed Jones Mercer, Songs - United: A National Hymn",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll059.html",
+          "link": "http://localhost:4000/ncdctest/items/coll059.html",
           "credit": "She Changed the World"
         },
         "start_date": { 
@@ -729,7 +729,7 @@
         "media": {
           "url": "https://digital.ncdcr.gov/digital/iiif/p16062coll10/945/full/pct:40/0/default.jpg",
           "caption": "Margaret I. Saunders Correspondence, March 1945",
-          "link": "https://ncdigitalcollections.github.io/demo/ncdctest/items/coll060.html",
+          "link": "http://localhost:4000/ncdctest/items/coll060.html",
           "credit": "She Changed the World"
         },
         "start_date": { 

@@ -3,434 +3,434 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/about.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/about.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/browse.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/browse.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/data/</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/data/</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/pages/google-search.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/pages/google-search.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/locations.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/locations.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/map.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/map.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/search/</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/search/</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/subjects.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/subjects.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/tech.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/tech.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/timeline.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/timeline.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll000.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll000.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll001.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll001.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll002.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll002.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll003.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll003.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll004.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll004.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll005.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll005.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll006.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll006.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll007.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll007.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll008.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll008.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll009.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll009.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll010.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll010.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll011.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll011.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll012.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll012.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll013.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll013.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll014.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll014.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll015.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll015.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll016.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll016.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll017.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll017.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll018.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll018.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll019.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll019.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll020.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll020.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll021.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll021.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll022.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll022.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll023.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll023.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll024.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll024.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll025.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll025.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll026.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll026.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll027.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll027.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll028.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll028.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll029.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll029.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll030.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll030.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll031.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll031.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll032.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll032.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll033.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll033.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll034.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll034.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll035.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll035.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll036.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll036.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll037.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll037.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll038.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll038.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll039.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll039.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll040.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll040.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll041.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll041.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll042.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll042.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll043.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll043.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll044.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll044.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll045.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll045.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll046.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll046.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll047.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll047.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll048.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll048.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll049.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll049.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll050.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll050.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll051.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll051.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll052.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll052.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll053.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll053.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll054.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll054.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll055.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll055.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll056.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll056.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll057.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll057.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll058.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll058.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll059.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll059.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://ncdigitalcollections.github.io/demo/ncdctest/items/coll060.html</loc>
-      <lastmod>2020-07-02T09:50:07-07:00</lastmod>
+      <loc>http://localhost:4000/ncdctest/items/coll060.html</loc>
+      <lastmod>2020-07-02T10:09:36-04:00</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
